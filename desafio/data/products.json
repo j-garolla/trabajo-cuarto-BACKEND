@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Rosa Mosqueta",
+        "description": "La Rosa Mosqueta es conocida por sus pétalos rosados y su resistencia a las condiciones climáticas variadas.",
+        "price": 14.99,
+        "thumbnail": "URL de la imagen",
+        "code": "RM001",
+        "stock": "50 unidades"
+    },
+
+
+    {
+        "id": 3,
+        "title": "Rosa Blanca",
+        "description": "La Rosa Blanca se caracteriza por ser poco común y por su versatilidad a la hora de decorar espacios.",
+        "price": 30.99,
+        "thumbnail": "URL de la imagen",
+        "code": "RB003",
+        "stock": "10 unidades"
+    }
+]
